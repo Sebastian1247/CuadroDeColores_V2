@@ -332,6 +332,6 @@ El archivo editable se encuentra en [`docs/CuadroDeColores.drawio`](docs/CuadroD
 
 ## Autor
 
-- *Nombre del autor* ([*usuario de GitHub*](https://github.com/))
+- *Nombre del autor* ([Sebastian1247](https://github.com/Sebastian1247))
 
 Tecnologías de Programación, Maestría en Ciencias de la Computación, 1er semestre. [Tecnológico Nacional de México, Campus Culiacán](https://www.culiacan.tecnm.mx/posgrados/maestria-en-ciencias-de-la-computacion/)

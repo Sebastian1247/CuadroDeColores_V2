@@ -6,8 +6,9 @@ bin/
 README_Ejemplo.md
 JuegoBaraja.drawio
 
-# docs: solo se sube el diagrama de clases (draw.io y su PNG)
+# docs: solo se sube el enunciado y el diagrama de clases (draw.io y su PNG)
 docs/*
+!docs/Proyecto_CuadrosdeColores.pdf
 !docs/CuadroDeColores.drawio
 !docs/CuadroDeColores*.png
 
