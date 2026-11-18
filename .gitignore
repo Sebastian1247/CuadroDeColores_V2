@@ -1,0 +1,15 @@
+# Archivos compilados
+*.class
+bin/
+
+# Archivos de ejemplo que no son del proyecto
+README_Ejemplo.md
+JuegoBaraja.drawio
+
+# docs: solo se sube el diagrama de clases (draw.io y su PNG)
+docs/*
+!docs/CuadroDeColores.drawio
+!docs/CuadroDeColores*.png
+
+# Temporales de Office
+~$*
